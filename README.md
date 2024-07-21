@@ -1,7 +1,7 @@
 # Music-store-data-analysis
 
 1. Data Integration and Management:
-- Successfully imported a comprehensive music playlist database into an SQL environment, ensuring seamless integration and data integrity.
+- Successfully imported a comprehensive music playlist database into MySQL workbench, ensuring seamless integration and data integrity.
 - Utilized advanced SQL commands to manage and manipulate the dataset, facilitating efficient data handling and analysis.
 
 2. Data Analysis and Insight Generation:
